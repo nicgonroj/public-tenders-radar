@@ -1,0 +1,121 @@
+{
+ "Cantidad": 19,
+ "FechaCreacion": "2026-10-20T08:00:00",
+ "Version": "v1",
+ "Listado": [
+  {
+   "CodigoExterno": "9001-11-LE26",
+   "Nombre": "Servicio de inteligencia de negocios y tableros de control para la gestión municipal",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-29T08:00:00"
+  },
+  {
+   "CodigoExterno": "9002-4-L126",
+   "Nombre": "Desarrollo de plataforma de indicadores de gestión",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-22T10:00:00"
+  },
+  {
+   "CodigoExterno": "9003-7-LE26",
+   "Nombre": "Estudio de satisfacción usuaria de los servicios de atención",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-11-04T08:00:00"
+  },
+  {
+   "CodigoExterno": "9004-2-LP26",
+   "Nombre": "Adquisición de equipos computacionales para sistema de información",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-11-09T08:00:00"
+  },
+  {
+   "CodigoExterno": "9005-9-L126",
+   "Nombre": "Capacitación en Power BI para funcionarios",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-11-19T08:00:00"
+  },
+  {
+   "CodigoExterno": "9006-3-L126",
+   "Nombre": "Análisis de datos de flujos de tránsito",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-19T08:00:00"
+  },
+  {
+   "CodigoExterno": "9007-5-LE26",
+   "Nombre": "Servicio de transporte de pasajeros para funcionarios del hospital",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-26T08:00:00"
+  },
+  {
+   "CodigoExterno": "9008-1-L126",
+   "Nombre": "Servicio de traslado de adultos mayores a actividades comunitarias",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-25T08:00:00"
+  },
+  {
+   "CodigoExterno": "9009-6-L126",
+   "Nombre": "Servicio de transporte de pasajeros para delegaciones deportivas",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-27T08:00:00"
+  },
+  {
+   "CodigoExterno": "9010-8-L126",
+   "Nombre": "Servicio de transporte de carga y mudanza de oficinas",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-28T08:00:00"
+  },
+  {
+   "CodigoExterno": "9011-2-LE26",
+   "Nombre": "Adquisición de insumos de aseo y artículos de limpieza para establecimientos educacionales",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-24T08:00:00"
+  },
+  {
+   "CodigoExterno": "9012-4-L126",
+   "Nombre": "Servicio de aseo y limpieza de dependencias",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-30T08:00:00"
+  },
+  {
+   "CodigoExterno": "9013-3-LP26",
+   "Nombre": "Suministro de papel higiénico y toallas de papel",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-11-01T08:00:00"
+  },
+  {
+   "CodigoExterno": "9014-7-L126",
+   "Nombre": "Construcción de veredas en sector norte",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-29T08:00:00"
+  },
+  {
+   "CodigoExterno": "9015-1-L126",
+   "Nombre": "Adquisición de neumáticos para vehículos municipales",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-26T08:00:00"
+  },
+  {
+   "CodigoExterno": "9016-5-LE26",
+   "Nombre": "Mantención de áreas verdes y arbolado urbano",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-31T08:00:00"
+  },
+  {
+   "CodigoExterno": "9017-2-L126",
+   "Nombre": "Servicio de transporte de pasajeros para funcionarios municipales",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-26T08:00:00"
+  },
+  {
+   "CodigoExterno": "9018-9-L126",
+   "Nombre": "Adquisición de detergente y desinfectante para centros de salud",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-10-21T04:00:00"
+  },
+  {
+   "CodigoExterno": "9019-4-L126",
+   "Nombre": "Servicio de análisis de datos para la gestión hospitalaria",
+   "CodigoEstado": 5,
+   "FechaCierre": "2026-11-03T08:00:00"
+  }
+ ]
+}

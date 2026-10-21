@@ -1,0 +1,16 @@
+# Datos y salidas locales del radar
+data/
+output/
+*.sqlite
+*.sqlite-journal
+
+# Secretos: el ticket va solo en el entorno
+.env*
+
+# Perfiles propios (el ejemplo sí se versiona)
+profiles.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

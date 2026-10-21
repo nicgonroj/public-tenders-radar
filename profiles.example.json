@@ -1,0 +1,91 @@
+{
+  "_nota": "Perfiles de ejemplo, genéricos y ficticios. Copia este archivo a profiles.json y adáptalo a tu empresa. Las frases se comparan sin tildes ni mayúsculas y como palabras completas. 'fuertes' bastan por sí solas; 'debiles' solo cuentan en el nombre y necesitan 'contexto'; 'exclusiones' descartan si aparecen en el nombre salvo que haya una fuerte en el nombre; 'exclusiones_duras' descartan siempre.",
+  "plazo_critico_horas": {
+    "licitacion": 72,
+    "compra_agil": 24
+  },
+  "perfiles": {
+    "Consultora de analítica de datos": {
+      "fuertes": [
+        "inteligencia de negocios", "business intelligence", "power bi", "análisis de datos",
+        "analítica de datos", "ciencia de datos", "minería de datos", "big data", "tablero de control",
+        "tableros de control", "dashboard", "dashboards", "visualización de datos", "data warehouse",
+        "bodega de datos", "ingeniería de datos", "gobierno de datos", "integración de datos",
+        "modelo predictivo", "modelos predictivos", "automatización de procesos"
+      ],
+      "debiles": [
+        "plataforma", "sistema", "indicadores", "reportes", "estadísticas", "estudio", "consultoría"
+      ],
+      "contexto": [
+        "datos", "base de datos", "kpi", "análisis", "gestión de información", "digital"
+      ],
+      "exclusiones": [
+        "equipos computacionales", "computadores", "notebooks", "impresoras", "tóner", "cableado",
+        "telefonía", "cámaras", "mobiliario", "construcción", "obra", "obras"
+      ],
+      "exclusiones_duras": [
+        "licencia", "licencias", "alimentación"
+      ],
+      "busquedas_compra_agil": [
+        "datos", "dashboard", "tablero de control", "power bi", "plataforma", "visualizacion"
+      ],
+      "monto": {
+        "minimo": 1000000
+      }
+    },
+    "Empresa de transporte de pasajeros": {
+      "fuertes": [
+        "transporte de pasajeros", "traslado de pasajeros", "transporte de personal",
+        "traslado de funcionarios", "transporte escolar", "arriendo de bus", "arriendo de buses",
+        "servicio de buses", "minibús", "furgón con conductor", "transporte de delegaciones"
+      ],
+      "debiles": [
+        "traslado", "traslados", "transporte", "buses", "viaje", "viajes"
+      ],
+      "contexto": [
+        "pasajeros", "personas", "funcionarios", "alumnos", "estudiantes", "delegación",
+        "adultos mayores", "deportistas", "con conductor"
+      ],
+      "exclusiones": [
+        "carga", "mudanza", "encomiendas", "combustible", "valores", "animales", "ambulancia"
+      ],
+      "exclusiones_duras": [
+        "transporte de residuos", "pasajes aéreos"
+      ],
+      "busquedas_compra_agil": [
+        "transporte", "traslado", "buses"
+      ],
+      "zona": {
+        "_nota": "Se evalúa la ubicación del comprador (comuna de la unidad en licitaciones; organismo y dirección de entrega en compra ágil).",
+        "regiones": ["metropolitana"],
+        "comunas_excluidas": ["melipilla", "talagante", "colina"],
+        "comunas_preferidas": ["providencia", "ñuñoa", "las condes"]
+      }
+    },
+    "Proveedor de insumos de aseo": {
+      "fuertes": [
+        "insumos de aseo", "artículos de aseo", "artículos de limpieza", "productos de limpieza",
+        "papel higiénico", "toalla de papel", "toallas de papel", "cloro", "detergente",
+        "desinfectante", "jabón líquido", "bolsas de basura", "alcohol gel"
+      ],
+      "debiles": [
+        "insumos", "artículos", "útiles", "materiales"
+      ],
+      "contexto": [
+        "aseo", "limpieza", "higiene", "sanitización"
+      ],
+      "exclusiones": [
+        "servicio de aseo", "servicio de limpieza", "maquinaria"
+      ],
+      "exclusiones_duras": [
+        "limpieza de fosas"
+      ],
+      "busquedas_compra_agil": [
+        "aseo", "limpieza", "insumos", "alcohol gel"
+      ],
+      "monto": {
+        "maximo": 30000000
+      }
+    }
+  }
+}

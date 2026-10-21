@@ -1,0 +1,567 @@
+{
+ "9001-11-LE26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9001-11-LE26",
+    "Nombre": "Servicio de inteligencia de negocios y tableros de control para la gestión municipal",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Implementación de modelo de datos, tableros de control e indicadores de gestión para direcciones municipales.",
+    "Tipo": "LE",
+    "Moneda": "CLP",
+    "MontoEstimado": 45000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Providencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-29T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 1,
+     "Listado": [
+      {
+       "Correlativo": 1,
+       "NombreProducto": "Servicio de consultoría",
+       "Descripcion": "Desarrollo de tableros en herramienta de BI",
+       "Cantidad": 1
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "9002-4-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9002-4-L126",
+    "Nombre": "Desarrollo de plataforma de indicadores de gestión",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Se requiere análisis de datos de atenciones y un tablero de control para jefaturas.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 8000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Servicio Regional de Demostración",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Santiago",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-22T10:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9003-7-LE26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9003-7-LE26",
+    "Nombre": "Estudio de satisfacción usuaria de los servicios de atención",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Diseño muestral, levantamiento de encuestas y análisis estadístico de resultados.",
+    "Tipo": "LE",
+    "Moneda": "CLP",
+    "MontoEstimado": 12000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Hospital Base Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Temuco",
+     "RegionUnidad": "Región de La Araucanía"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-11-04T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9004-2-LP26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9004-2-LP26",
+    "Nombre": "Adquisición de equipos computacionales para sistema de información",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Compra de computadores de escritorio y servidores.",
+    "Tipo": "LP",
+    "Moneda": "CLP",
+    "MontoEstimado": 150000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Universidad Pública de Ejemplo",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Valparaíso",
+     "RegionUnidad": "Región de Valparaíso"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-11-09T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9005-9-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9005-9-L126",
+    "Nombre": "Capacitación en Power BI para funcionarios",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Curso de 24 horas sobre modelamiento y visualización.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 3000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Gobierno Regional Demo",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Concepción",
+     "RegionUnidad": "Región del Biobío"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-11-19T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9006-3-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9006-3-L126",
+    "Nombre": "Análisis de datos de flujos de tránsito",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Análisis de conteos vehiculares.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 5000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Providencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-19T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9007-5-LE26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9007-5-LE26",
+    "Nombre": "Servicio de transporte de pasajeros para funcionarios del hospital",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Traslado diario de funcionarios en turnos de mañana y noche.",
+    "Tipo": "LE",
+    "Moneda": "CLP",
+    "MontoEstimado": 60000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Hospital Base Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Santiago",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-26T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9008-1-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9008-1-L126",
+    "Nombre": "Servicio de traslado de adultos mayores a actividades comunitarias",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Traslado ida y vuelta de grupos de adultos mayores.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 4500000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Ñuñoa",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-25T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9009-6-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9009-6-L126",
+    "Nombre": "Servicio de transporte de pasajeros para delegaciones deportivas",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Traslado de deportistas a competencias regionales.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 9000000,
+    "Comprador": {
+     "CodigoOrganismo": "9900",
+     "NombreOrganismo": "Gobierno Regional Demo",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Viña del Mar",
+     "RegionUnidad": "Región de Valparaíso"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-27T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9010-8-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9010-8-L126",
+    "Nombre": "Servicio de transporte de carga y mudanza de oficinas",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Traslado de mobiliario y archivos.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 6000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Servicio Regional de Demostración",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Santiago",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-28T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9011-2-LE26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9011-2-LE26",
+    "Nombre": "Adquisición de insumos de aseo y artículos de limpieza para establecimientos educacionales",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Suministro mensual de cloro, detergente, papel higiénico y bolsas de basura.",
+    "Tipo": "LE",
+    "Moneda": "CLP",
+    "MontoEstimado": 18000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Corporación de Educación Demo",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Puente Alto",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-24T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9012-4-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9012-4-L126",
+    "Nombre": "Servicio de aseo y limpieza de dependencias",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Personal de aseo para oficinas centrales.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 25000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Servicio Regional de Demostración",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Santiago",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-30T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9013-3-LP26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9013-3-LP26",
+    "Nombre": "Suministro de papel higiénico y toallas de papel",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Convenio de suministro por 24 meses.",
+    "Tipo": "LP",
+    "Moneda": "CLP",
+    "MontoEstimado": 80000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Hospital Base Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Santiago",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-11-01T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9014-7-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9014-7-L126",
+    "Nombre": "Construcción de veredas en sector norte",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Obra civil.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 70000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Providencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-29T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9015-1-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9015-1-L126",
+    "Nombre": "Adquisición de neumáticos para vehículos municipales",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Neumáticos 195/65 R15.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 7000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Providencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-26T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9016-5-LE26": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9016-5-LE26",
+    "Nombre": "Mantención de áreas verdes y arbolado urbano",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Riego, poda y reposición.",
+    "Tipo": "LE",
+    "Moneda": "CLP",
+    "MontoEstimado": 90000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Municipalidad de Valle Ficticio",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Providencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-31T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9017-2-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9017-2-L126",
+    "Nombre": "Servicio de transporte de pasajeros para funcionarios municipales",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Traslado de funcionarios entre sedes.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 15000000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Municipalidad de Costa Ficticia",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Melipilla",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-26T08:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ },
+ "9018-9-L126": {
+  "Cantidad": 1,
+  "Version": "v1",
+  "Listado": [
+   {
+    "CodigoExterno": "9018-9-L126",
+    "Nombre": "Adquisición de detergente y desinfectante para centros de salud",
+    "CodigoEstado": 5,
+    "Estado": "Publicada",
+    "Descripcion": "Detergente industrial y desinfectante de superficies.",
+    "Tipo": "L1",
+    "Moneda": "CLP",
+    "MontoEstimado": 6500000,
+    "Comprador": {
+     "CodigoOrganismo": "9901",
+     "NombreOrganismo": "Servicio de Salud Demo Norte",
+     "NombreUnidad": "Unidad de Compras",
+     "ComunaUnidad": "Independencia",
+     "RegionUnidad": "Región Metropolitana de Santiago"
+    },
+    "Fechas": {
+     "FechaPublicacion": "2026-10-10T08:00:00",
+     "FechaCierre": "2026-10-21T04:00:00"
+    },
+    "Items": {
+     "Cantidad": 0,
+     "Listado": []
+    }
+   }
+  ]
+ }
+}

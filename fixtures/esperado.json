@@ -1,0 +1,99 @@
+{
+ "9001-11-LE26": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9002-4-L126": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9003-7-LE26": {
+  "Consultora de analítica de datos": "B"
+ },
+ "9004-2-LP26": {},
+ "9005-9-L126": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9006-3-L126": {
+  "_motivo": "ya cerrada"
+ },
+ "9007-5-LE26": {
+  "Empresa de transporte de pasajeros": "A"
+ },
+ "9008-1-L126": {
+  "Empresa de transporte de pasajeros": "B"
+ },
+ "9009-6-L126": {
+  "_motivo": "fuera de zona"
+ },
+ "9010-8-L126": {
+  "_motivo": "exclusión"
+ },
+ "9011-2-LE26": {
+  "Proveedor de insumos de aseo": "A"
+ },
+ "9012-4-L126": {
+  "_motivo": "exclusión"
+ },
+ "9013-3-LP26": {
+  "_motivo": "fuera del rango de monto"
+ },
+ "9014-7-L126": {},
+ "9015-1-L126": {},
+ "9016-5-LE26": {},
+ "9017-2-L126": {
+  "_motivo": "fuera de zona"
+ },
+ "9018-9-L126": {
+  "Proveedor de insumos de aseo": "A"
+ },
+ "9019-4-L126": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9101-120-COT26": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9102-121-COT26": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9103-122-COT26": {
+  "Consultora de analítica de datos": "A"
+ },
+ "9104-123-COT26": {
+  "Consultora de analítica de datos": "B"
+ },
+ "9105-124-COT26": {
+  "_motivo": "exclusión dura"
+ },
+ "9106-125-COT26": {
+  "_motivo": "fuera del rango de monto"
+ },
+ "9107-126-COT26": {
+  "Empresa de transporte de pasajeros": "B"
+ },
+ "9108-127-COT26": {
+  "Empresa de transporte de pasajeros": "A"
+ },
+ "9109-128-COT26": {
+  "_motivo": "fuera de zona"
+ },
+ "9110-129-COT26": {
+  "_motivo": "exclusión dura"
+ },
+ "9111-130-COT26": {
+  "Proveedor de insumos de aseo": "A"
+ },
+ "9112-131-COT26": {
+  "Proveedor de insumos de aseo": "A"
+ },
+ "9113-132-COT26": {
+  "Proveedor de insumos de aseo": "B"
+ },
+ "9114-133-COT26": {
+  "_motivo": "palabra débil sin contexto"
+ },
+ "9115-134-COT26": {},
+ "9116-135-COT26": {},
+ "9117-136-COT26": {},
+ "9118-137-COT26": {
+  "Consultora de analítica de datos": "B"
+ }
+}
